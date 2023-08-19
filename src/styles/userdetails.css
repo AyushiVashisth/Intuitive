@@ -1,0 +1,58 @@
+/* login.css */
+
+/* Base Styles */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #3498db, #8e44ad);
+  color: #fff;
+}
+
+/* User Details Container */
+.user-details-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.4);
+  background-color: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+}
+
+/* User Details */
+.user-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 15px;
+}
+
+.user-info {
+  flex: 1;
+}
+
+/* Password Toggle */
+.password-toggle button {
+  background-color: transparent;
+  border: none;
+  color: #5c0681;
+  cursor: pointer;
+}
+
+/* Logout Button */
+.logout-button {
+  background-color: #8e44ad;
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  width: 100%;
+}
+
+.logout-button:hover {
+  background-color: #3498db;
+}

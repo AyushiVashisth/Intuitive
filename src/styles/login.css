@@ -1,0 +1,101 @@
+/* login.css */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #3498db, #8e44ad);
+  color: #fff;
+}
+
+/* Login Container */
+.login-container {
+  width: 400px;
+  margin: 100px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.4);
+  background-color: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+}
+
+/* Heading */
+h2 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Form Group */
+.form-group {
+  margin-bottom: 30px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+  transform: translateY(0);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form-group input:focus {
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 2px solid #16a085;
+  transform: translateY(-2px);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Error Message */
+.error {
+  color: #fe1e05;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+/* Login Button */
+button {
+  background: #8e44ad;
+  color: #fff;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #3498db;
+  transform: translateY(-2px);
+}
+.login-link {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.login-link a {
+  color: #260236;
+  text-decoration: none;
+}
+
+.login-link a:hover {
+  text-decoration: underline;
+}
