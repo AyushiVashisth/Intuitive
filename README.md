@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<h1 align="center">✨✨Welcome to Intuitive✨✨</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
+<h3 align="justify" width="80%">Create responsive web pages using HTML, CSS, JavaScript, and ReactJs for registration, login, and user details. Registration includes name, email, password, mobile, age, address, gender, and occupation fields. Implement secure client-side authentication logic for login. After successful registration/login, display the user's info and masked password. Include clean design, validation, and logout functionality. </h3>
 
-## Available Scripts
+<br/>
 
-In the project directory, you can run:
+### Frontend Deployed URL 👉 [Click here](https://intuitive.vercel.app/)
 
-### `npm start`
+### Backend API 👉 [Click here](https://intuitive-api.onrender.com)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+ <h2 align="left">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+ Languages and Tools
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+</h2>
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E" align="center" alt="javascript">
+<br/>
+<br/>
+</div>
+ </div>
+ 
+ <div align="center"><h3 align="center">Tools</h3> 
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+     <br />
+     <br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+ </div>
+</div>
+<div align="center"><h3 align="center">Deployed On:</h3>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  alt="vercel"/>
+  <img src="https://img.shields.io/badge/cyclic-5458F6?style=for-the-badge&logo=cyclic&logoColor=white" alt="cyclic" />
+</div>
+</p>
 
-### `npm run build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Features
+- Registration Page with client-side validation
+- Login Page with email or mobile number Login
+- Secure client-side authentication logic
+- User Details Page displaying user information
+- Responsive design for various screen sizes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Intuitive Page
 
-### `npm run eject`
+ # Languages Used :
+<ul dir="auto">
+ <ol dir="auto">◉ JavaScript : 71.2%</ol>
+ <ol dir="auto">◉ HTML : 18.7%</ol>
+ <ol dir="auto">◉ CSS : 10.1%</ol>
+ </ul>
+ 
+### This report is provided by the GitHub language used stats. So, this is the total percentage of the coding languages.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/><br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Installing :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository to your local machine
+2. Navigate to the project directory
+3. Run `npm install` to install the required dependencies
+4. Run `npm start` to start the development server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br/><br/>
 
-## Learn More
+<br/><br/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Our Learnings : 
+On this journey, we faced many issues, but we keep motivated each other with patience. 
+- We learned how to write more efficient and clean code.
+- Even though  We also learned how to plan a project and how to execute it step by step.
+- Through this Project, we have learned  to effectively improve productivity.
+- We also got a glimpse of using GitHub for version control.
+<br/><br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Contributing
 
-### Code Splitting
+### We welcome contributions to the Intuitive website. If you have an idea for a new feature or have found a bug, please open an issue in the repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br/>
 
-### Analyzing the Bundle Size
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Give a ⭐️ if you like this project!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1 align="center">✨Thank You✨</h1>
