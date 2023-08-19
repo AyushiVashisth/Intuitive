@@ -16,7 +16,7 @@ const Registration = () => {
 
   const onSubmit = async (data) => {
     try {
-      const response = await axios.post("http://localhost:5000/users", data);
+      const response = await axios.post("https://intuitive-api.onrender.com/users", data);
       console.log("Registration successful", response.data);
       navigate("/");
       toast.success("Registration successful"); // Display a success toast

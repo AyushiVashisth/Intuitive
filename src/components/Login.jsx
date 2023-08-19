@@ -17,7 +17,7 @@ const Login = ({ onLogin }) => {
   const onSubmit = async (data) => {
     try {
       const response = await axios.get(
-        `http://localhost:5000/users?email=${data.identifier}&password=${data.password}`
+        `https://intuitive-api.onrender.com/users?email=${data.identifier}&password=${data.password}`
       );
 
       if (response.data.length > 0) {
